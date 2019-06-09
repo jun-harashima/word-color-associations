@@ -1,6 +1,6 @@
 # Word-Color Associations in Japanese
 
-This is the first resource for Japanese word-color associations ([Harashima 2016](http://jun-harashima.net/paper/harashima2016b.pdf). The resource includes a total of 2,903 Japanese words.
+This is the first resource for Japanese word-color associations ([Harashima 2016](http://jun-harashima.net/paper/harashima2016b.pdf)). The resource includes a total of 2,903 Japanese words.
 
 ## Color associations with contexts
 
